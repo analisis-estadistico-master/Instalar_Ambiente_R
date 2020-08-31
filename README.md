@@ -1,23 +1,4 @@
-# Material para la clase de Análisis estadístico
-
-La unidad de aprendizaje **Análisis estadístico** esta diseñada para enseñar al estudiante los elementos de estadística necesarios para interpretar los datos colectados en campo, laboratorio o experimentos durante su tesis. El curso esta basado en el manejo y uso del software **R** para llevar al alumno a un nivel intermedio. Para lograr este objetivo durante el periodo de clases se realizarán tareas sencillas, pero relevantes, relacionadas con las Ciencias Forestales. Entre ellas se incluye: el manejo de datos, la representación gráfica de datos y la solución de tareas estadísticas con el lenguaje de programación **R**.
-
-## Objetivos
-
-Al finalizar el curso el estudiante:
-
-- Se habrá familiarizado con el uso de R.
-- Será capaz de realizar análisis descriptivos básicos.
-- Desarrollará la habilidad en el análisis estadístico y principios de diseño que fundamentan la investigación científica en el manejo de los recursos forestales.
-- Obtendrá los elementos estadísticos necesarios para la síntesis y el análisis de datos, así como enfatizar su trascendencia e importancia en la solución de problemas en el ámbito forestal.
-
-# Software para el uso en clase
-
-  - [R-Studio](https://www.rstudio.com/)
-  - [R project](https://www.r-project.org/)
-  - [Github](https://github.com/)
-  - [Git](https://git-scm.com/)
-
+# Actividad 1 de Análisis estadístico
 
 # Programación del Curso
 
@@ -30,15 +11,34 @@ Al finalizar el curso el estudiante:
 - __Lab__ :microscope: Procedimiento y código de la clase.
 - __Tarea__ :dart: Tarea 1 Instar el ambiente R en Windows.
 
------
+## Objetivos
 
+La unidad de aprendizaje **Análisis estadístico** esta diseñada para enseñar al estudiante los elementos de estadística necesarios para interpretar los datos colectados en campo, laboratorio o experimentos durante su tesis. El curso esta basado en el manejo y uso del software **R** para llevar al alumno a un nivel intermedio. Para lograr este objetivo durante el periodo de clases se realizarán tareas sencillas, pero relevantes, relacionadas con las Ciencias Forestales. Entre ellas se incluye: el manejo de datos, la representación gráfica de datos y la solución de tareas estadísticas con el lenguaje de programación **R**.
+
+
+Al finalizar el curso el estudiante:
+
+- Se habrá familiarizado con el uso de R.
+- Será capaz de realizar análisis descriptivos básicos.
+- Desarrollará la habilidad en el análisis estadístico y principios de diseño que fundamentan la investigación científica en el manejo de los recursos forestales.
+- Obtendrá los elementos estadísticos necesarios para la síntesis y el análisis de datos, así como enfatizar su trascendencia e importancia en la solución de problemas en el ámbito forestal.
+
+# Instalar software para el uso en clase:
+
+  - [R-Studio](https://www.rstudio.com/)
+  - [R project](https://www.r-project.org/)
+  - [Github](https://github.com/)
+  - [Git](https://git-scm.com/)
+  - [Miktex](https://miktex.org/)
+
+-----
 
 ## 0. Introducción al curso: R, Rstudio, Git (versión control)
 
 - :card_index: __Fecha__: Semana 1
 - :paperclip: __Temas__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su versión de control.
 - :file_folder: __Notas__:
-    + [Bienvenida al curso 108 (presencial)](Introduccion/Introduccion.pdf)
+    + [Bienvenida al curso 108 (presencial)](Introduccion/01_Clase_Manejo.pdf)
     + Administrar una versión control con Rstudio y Github (presencial)
 - :book: __Lecturas__:
     + [Instalación de R](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-r)
