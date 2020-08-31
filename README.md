@@ -38,7 +38,7 @@ Al finalizar el curso el estudiante:
 - :card_index: __Fecha__: Semana 1
 - :paperclip: __Temas__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su versión de control.
 - :file_folder: __Notas__:
-    + [Bienvenida al curso 108 (presencial)](Introduccion/01_Clase_Manejo.pdf)
+    + [Bienvenida al curso 108 (presencial)](01_Clase_Manejo.pdf)
     + Administrar una versión control con Rstudio y Github (presencial)
 - :book: __Lecturas__:
     + [Instalación de R](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-r)
